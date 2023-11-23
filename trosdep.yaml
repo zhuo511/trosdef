@@ -13,3 +13,6 @@ hobot_llm:
 hobot_tts:
   ubuntu:
   - tros-foxy-hobot-tts
+hobot_web:
+  ubuntu:
+  - tros-foxy-hobot-web
