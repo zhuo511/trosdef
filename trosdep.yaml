@@ -1,3 +1,3 @@
-rcl_interfaces:
+hobot_gpt:
   ubuntu:
-  - tros-foxy-rcl-interfaces
+  - tros-foxy-hobot-gpt
