@@ -1,7 +1,5 @@
 hobot_audio:
   ubuntu: [tros-foxy-hobot-audio]
-hobot_chatbot:
-  ubuntu: [tros-foxy-hobot-chatbot]
 hobot_codec:
   ubuntu: [tros-foxy-hobot-codec]
 hobot_gpt:
