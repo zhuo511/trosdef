@@ -1,2 +1,15 @@
-{hobot_audio: {ubuntu: [tros-foxy-hobot-audio]}, hobot_gpt: {ubuntu: [tros-foxy-hobot-gpt]},
-  hobot_hdmi: {ubuntu: [tros-foxy-hobot-hdmi]}, hobot_tts: {ubuntu: [tros-foxy-hobot-tts]}}
+hobot_audio:
+  ubuntu:
+  - tros-foxy-hobot-audio
+hobot_gpt:
+  ubuntu:
+  - tros-foxy-hobot-gpt
+hobot_hdmi:
+  ubuntu:
+  - tros-foxy-hobot-hdmi
+hobot_llm:
+  ubuntu:
+  - tros-foxy-hobot-llm
+hobot_tts:
+  ubuntu:
+  - tros-foxy-hobot-tts
