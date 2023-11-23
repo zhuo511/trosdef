@@ -1,3 +1,6 @@
 hobot_gpt:
   ubuntu:
   - tros-foxy-hobot-gpt
+hobot_tts:
+  ubuntu:
+  - tros-foxy-hobot-tts
