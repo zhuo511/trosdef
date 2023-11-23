@@ -5,3 +5,7 @@ rcl_interfaces:
 
 hobot_audio:
   ubuntu: [tros-foxy-hobot_audio]
+
+
+hobot_tts:
+  ubuntu: [tros-foxy-hobot-tts]
