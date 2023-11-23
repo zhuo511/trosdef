@@ -4,6 +4,3 @@ hobot_gpt:
 hobot_tts:
   ubuntu:
   - tros-foxy-hobot-tts
-rcl_interfaces:
-  ubuntu:
-  - tros-foxy-rcl-interfaces
