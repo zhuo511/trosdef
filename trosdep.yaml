@@ -2,3 +2,6 @@ rclcpp:
   ubuntu: [tros-foxy-rclcpp]
 rcl_interfaces:
   ubuntu: [tros-foxy-rcl-interfaces]
+
+hobot_audio:
+  ubuntu: [tros-foxy-hobot_audio]
