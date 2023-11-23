@@ -1,1 +1,3 @@
-{}
+rcl_interfaces:
+  ubuntu:
+  - tros-foxy-rcl-interfaces
