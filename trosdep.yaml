@@ -1,5 +1,3 @@
-hobot_abc:
-  ubuntu: [tros-foxy-hobot-abc]
 hobot_audio:
   ubuntu: [tros-foxy-hobot-audio]
 hobot_chatbot:
